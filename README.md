@@ -1,10 +1,7 @@
-In this task, you will continue practicing with strings and applying different methods to them.
+# Make Abbreviation
 
-Many things in the world consist of several words. We want to create the `makeAbbr()` method that returns the abbreviations for them.
+Many things in the world consist of several words. We want to create the `makeAbbr()` method that returns their abbreviations. *Will you help us?* Here are examples:
 
-Will you help us?
-
-For example:
 ```kotlin
 makeAbbr("national aeronautics space administration")
 // "NASA"
